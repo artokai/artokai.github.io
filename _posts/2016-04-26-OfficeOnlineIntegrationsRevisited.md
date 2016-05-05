@@ -7,7 +7,7 @@ tags:
 - Office Online
 ---
 
-When I first started blogging about three of years ago, I started to write 
+When I first started blogging about three years ago, I started to write 
 a blog post series about using Office Web Apps to view and edit
 files stored in your custom applications. However back then it was way too tedious 
 to allow your users to edit MS Word documents, so I silently cursed Microsoft 

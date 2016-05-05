@@ -1,7 +1,7 @@
 ---
 title: "Testing with Chuck"
 header:
-  teaser: "posts/2016-05-02_chuck_teaser.jpg"
+  teaser: "posts/2016-04-28_chuck_teaser.jpg"
 tags:
 - SharePoint
 - PowerShell
