@@ -1,7 +1,7 @@
 ---
 title: "Email address is not the user's identity in O365"
 header:
-  teaser: "posts/2016-06-08_teaser.jpg"
+  teaser: "posts/2016-06-07_teaser.jpg"
 tags:
 - O365
 - SharePoint
