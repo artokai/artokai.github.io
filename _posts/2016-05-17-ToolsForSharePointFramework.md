@@ -114,6 +114,6 @@ or just plain TypeScript to render the UI instead.
 
 I definitely encourage you to learn about React (and also 
 [the Flux architecture model](https://facebook.github.io/flux/))
-when preparing for the new SharePoint Framework.
-But if you have to choose between TypeScript and React, then 
-I personally would start with TypeScript.  
+when preparing for the new SharePoint Framework. But if you have 
+to choose between TypeScript and React, then I personally would
+start with TypeScript! 
