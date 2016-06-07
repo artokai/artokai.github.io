@@ -61,7 +61,6 @@ excludes all Guest-users since their UPN never matches their email-address anywa
 ```powershell
 $cred = Get-Credential
 Connect-MsolService -Credential $cred
-
 Get-MsolUser |? { $_.UserType -ne 'Guest' } | ForEach-Object {
     $user = $_;
     New-Object -TypeName PSObject -Property @{
