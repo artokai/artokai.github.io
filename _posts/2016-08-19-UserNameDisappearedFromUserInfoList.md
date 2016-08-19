@@ -8,7 +8,7 @@ tags:
 
 One of our SharePoint AddIns just stopped working in SharePoint Online even though
 we had done no changes in the actual codebase. It turned out that a field called ```UserName``` was
-not present in the   
+not present in the 
 [User Information List](https://blogs.technet.microsoft.com/marj/2016/03/14/what-is-hidden-user-information-userinfo-list-in-sharepoint-20102013-and-how-to-fix-when-it-causes-a-site-collection-to-show-old-user-metadata-properties-in-people-picker-control-or-in-a-person-or/)
 of a newly created site collection.
 
