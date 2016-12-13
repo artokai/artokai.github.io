@@ -10,11 +10,10 @@ tags:
 ---
 
 Microsoft provides quite nice build tools for the upcoming
-[SharePoint Framework](https://github.com/SharePoint/sp-dev-docs) using 
-[gulp](http://gulpjs.com/). In addition to building 
-the project using `gulp build`, you can also run your unit tests 
-using `gulp test`. Having unit tests is nice, but having them 
-executed automatically whenever you commit code to your source 
+[SharePoint Framework](https://github.com/SharePoint/sp-dev-docs).
+In addition to building the project using `gulp build`, you can also 
+run your unit tests using `gulp test`. Having unit tests is nice, 
+but having them executed automatically whenever you commit code to your source 
 control system is even nicer. In this blog post I'll demonstrate
 how you can setup automatic builds and unit testing using 
 [GitLab](https://about.gitlab.com/) and [Docker](https://www.docker.com/).
