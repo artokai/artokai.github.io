@@ -1,7 +1,7 @@
 ---
 title: "Did the UserName field just disappear from the User Information list in SharePoint Online?"
 header:
-  teaser: "posts/2016-08-19_teaser.jpg"
+  teaser: "images/posts/2016-08-19_teaser.jpg"
 tags:
 - SharePoint
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Office Online integrations revisited"
 header:
-  teaser: "posts/2016-04-26_teaser.jpg"
+  teaser: "images/posts/2016-04-26_teaser.jpg"
 tags:
 - O365
 - Office Online

@@ -1,7 +1,7 @@
 ---
 title: "The importance of Try-Catch statements in SharePoint ScriptParts"
 header:
-  teaser: "posts/2016-07-06_teaser.jpg"
+  teaser: "images/posts/2016-07-06_teaser.jpg"
 tags:
 - SharePoint
 - JavaScript

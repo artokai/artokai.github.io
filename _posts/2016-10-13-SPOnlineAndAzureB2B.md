@@ -1,7 +1,7 @@
 ---
 title: "Using Azure B2B to invite external users to SharePoint Online"
 header:
-  teaser: "posts/2016-10-13_teaser.jpg"
+  teaser: "images/posts/2016-10-13_teaser.jpg"
 tags:
 - SharePoint
 - O365

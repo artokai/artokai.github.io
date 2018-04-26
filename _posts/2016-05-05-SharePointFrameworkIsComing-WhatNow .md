@@ -1,7 +1,7 @@
 ---
 title: "The SharePoint Framework is coming, what now?"
 header:
-  teaser: "posts/2016-05-05-teaser.jpg"
+  teaser: "images/posts/2016-05-05-teaser.jpg"
 tags:
 - SharePoint
 ---

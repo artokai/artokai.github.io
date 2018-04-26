@@ -1,7 +1,7 @@
 ---
 title: "Managing SharePoint external users in a separate Azure AD instance"
 header:
-  teaser: "posts/2016-11-06_teaser.jpg"
+  teaser: "images/posts/2016-11-06_teaser.jpg"
 tags:
 - SharePoint
 - O365

@@ -1,7 +1,7 @@
 ---
 title: "Yammer, Groups, Teams... Which one should I use?"
 header:
-  teaser: "posts/2017-02-19_teaser.jpg"
+  teaser: "images/posts/2017-02-19_teaser.jpg"
 tags:
 - SharePoint
 - O365

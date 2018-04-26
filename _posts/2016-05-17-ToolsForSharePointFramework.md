@@ -1,7 +1,7 @@
 ---
 title: "Tools for the new SharePoint framework"
 header:
-  teaser: "posts/2016-05-17_teaser.jpg"
+  teaser: "images/posts/2016-05-17_teaser.jpg"
 tags:
 - SharePoint
 - TypeScript

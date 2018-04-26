@@ -1,7 +1,7 @@
 ---
 title: "SharePoint Framework and GitLab Continuous Integration"
 header:
-  teaser: "posts/2016-12-13_teaser.jpg"
+  teaser: "images/posts/2016-12-13_teaser.jpg"
 tags:
 - SharePoint
 - SPFX

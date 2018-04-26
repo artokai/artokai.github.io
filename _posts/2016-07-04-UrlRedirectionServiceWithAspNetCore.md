@@ -1,7 +1,7 @@
 ---
 title: "Url redirection service with ASP.NET Core"
 header:
-  teaser: "posts/2016-07-04_teaser.jpg"
+  teaser: "images/posts/2016-07-04_teaser.jpg"
 tags:
 - ASP.NET
 - Azure

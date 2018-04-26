@@ -1,7 +1,7 @@
 ---
 title: "Blogging again..."
 header:
-  teaser: "teasers/new_post.jpg"
+  teaser: "images/teasers/new_post.jpg"
 ---
 
 I started blogging two or three years ago, but that did not last long. Now I plan to start doing it again 

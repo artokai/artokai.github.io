@@ -1,7 +1,7 @@
 ---
 title: "Using TypeScript 2.1 in SPFX Drop 6"
 header:
-  teaser: "posts/2016-12-10_teaser.jpg"
+  teaser: "images/posts/2016-12-10_teaser.jpg"
 tags:
 - SharePoint
 - SPFX

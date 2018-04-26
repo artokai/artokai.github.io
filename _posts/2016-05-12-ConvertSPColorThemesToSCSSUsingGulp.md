@@ -1,7 +1,7 @@
 ---
 title: "Convert SharePoint color themes to SCSS using gulp"
 header:
-  teaser: "posts/2016-05-12_teaser.jpg"
+  teaser: "images/posts/2016-05-12_teaser.jpg"
 tags:
 - SharePoint
 - Gulp
